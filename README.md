@@ -21,7 +21,7 @@ I steer clusters instead of ships — same wheel, different kind of helm ⚓
 <a href="https://dev.to/dormiwww" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/></a>
 <a href="https://stackoverflow.com/users/28794903" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
 <a href="https://instagram.com/kethcupwp" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="mailto:newacaunt31@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="mailto:doroninmykhailo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 ## 🧭 About Me
@@ -33,7 +33,7 @@ I steer clusters instead of ships — same wheel, different kind of helm ⚓
 - 📈 I keep an eye on production with **Prometheus, Grafana**, and the **ELK / Loki** logging stack
 - 🌱 Backend roots in **Java, Kotlin & Python** — handy when I need to read the code running on top of my infra
 - 💬 Ask me about **Kubernetes, CI/CD, Linux, and infrastructure automation**
-- 📫 Reach me at **newacaunt31@gmail.com**
+- 📫 Reach me at **doroninmykhailo@gmail.com**
 
 ## 🛠️ Tech Stack
 
